@@ -1,0 +1,1 @@
+var json_bayonne_5 = {"type":"FeatureCollection","name":"bayonne_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","libelle":"BAYONNE"},"geometry":{"type":"Point","coordinates":[-1.452456449775933,43.504000841136452]}}]}
